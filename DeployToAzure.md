@@ -25,7 +25,7 @@ Denne guiden kan dere også finne her: https://learn.microsoft.com/en-us/azure/s
 
 10. Trykk på **URL linken** for å komme til din nettside! 
 
-## With Visual Studio Code
+## Med Visual Studio Code
 Denne guiden kan dere også finne her: https://learn.microsoft.com/en-us/azure/static-web-apps/getting-started?tabs=vanilla-javascript
 
 1. Installer **Azure Static Web Apps Extension** i Visual Studio Code. Den finner du ved å trykke på Extensions i menyen på venstre side og søke etter Azure Static Web Apps. 
