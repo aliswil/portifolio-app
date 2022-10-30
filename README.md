@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Kom i gang med å lage din egen portefølje med React, Typescript og Tailwind.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Dette er et kurs holdt av Forte digital for Ada NTNU 9. november 2022.
 
 ## Kjøre prosjektet
 
