@@ -10,7 +10,7 @@ export const Navbar = () => {
   return (
     <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#edede9] text-gray-700">
       <div>
-        <img src={logo} alt="Logo" style={{ width: "100px" }} />
+        <img src={logo} alt="Logo" style={{ width: "50px" }} />
       </div>
 
       <ul className="hidden md:flex ">
