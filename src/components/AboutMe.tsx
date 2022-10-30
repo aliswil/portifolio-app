@@ -2,7 +2,7 @@ import React from "react";
 
 const AboutMe = () => {
   return (
-    <div name="about" className="w-full h-screen bg-[#22333b] text-white">
+    <div data-name="about" className="w-full h-screen bg-[#22333b] text-white">
       <div className="flex flex-col justify-center items-center w-full h-full">
         <div className="max-w-[1000px] w-full grid grid-cols-2 gap-8">
           <div className="sm:text-right pb-8 pl-4">
@@ -17,10 +17,7 @@ const AboutMe = () => {
             <p>Hi. I´m Alis, nice to meet you. Pleace take a look around.</p>
           </div>
           <div>
-            <p>
-              I am passionate about tech, painting blablabal. Im also passionate
-              about getting more girls into IT.
-            </p>
+            <p>I am passionate about tech, blablablablablabal</p>
           </div>
         </div>
       </div>
