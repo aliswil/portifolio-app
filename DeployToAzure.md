@@ -7,7 +7,7 @@ Denne guiden kan dere også finne her: https://learn.microsoft.com/en-us/azure/s
 
 1. Gå til Azure Portalen [www.portal.azure.com] og logg dere inn med deres studentbruker 
 2. Velg **Create a Resource**.
-3. Søkt etter **Static Web Apps**.
+3. Søk etter **Static Web Apps**.
 4. Velg **Static Web Apps**.
 5. Velg **Create**.
 
@@ -16,7 +16,7 @@ Denne guiden kan dere også finne her: https://learn.microsoft.com/en-us/azure/s
 - Fyll ut navn på appen din
 - Under Deployment details velger dere GitHub som source (det er her koden til nettsiden ligger), og logger dere inn med GitHub kontoen deres. 
 - Deretter velger dere riktig Organization, Repository og Branch ut fra der koden deres ligger.
-- Under Build Details: velg React. La resten av feltene være defualt. 
+- Under Build Details: velg React. La resten av feltene være default. 
 
 7. Velg **Review + Create** 
 8. Når ressursen er laget, velg **Go To Resource** 
