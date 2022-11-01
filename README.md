@@ -11,3 +11,15 @@ For å kjøre prosjektet så skriver du følgende inn i terminalen:
 Nå kjører appen i development mode.\
 Åpne [http://localhost:3000](http://localhost:3000) for å se appen i nettleseren. 
 
+## Teknologier 
+
+I dette prosjektet bruker vi React med Typescript og Tailwind:
+
+[React](https://reactjs.org/docs/getting-started.html)
+
+[Typescript](https://www.typescriptlang.org/docs/)
+
+[Tailwind](https://tailwindcss.com/docs/installation)
+
+
+
