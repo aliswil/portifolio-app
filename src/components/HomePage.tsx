@@ -1,9 +1,13 @@
 import React from "react";
 import { HiArrowNarrowRight } from "react-icons/hi";
+import Portrait from "../assets/alis.png";
 
 export const HomePage = () => {
   return (
-    <div data-name="home" className="w-full h-screen bg-[#edede9]">
+    <div
+      data-name="home"
+      className="w-full h-screen bg-[#edede9] grid grid-cols-1 sm:grid-cols-2 gap-1"
+    >
       <div className="max-w-[1000 px] mx-auto px-20 flex flex-col justify-center h-full">
         <p className="text-black">Hi, my name is</p>
         <h1 className="text-4xl sm:text-7xl font-bold text-gray-700">
@@ -24,6 +28,14 @@ export const HomePage = () => {
           </button>
         </div>
       </div>
+      <div className="flex align-bottom h-full">
+        <img
+          className="absolute bottom-0 object-contain md:object-scale-down h-49 w-96"
+          src={Portrait}
+          alt="Portrait picture"
+        />
+      </div>
     </div>
   );
 };
+//mx-auto
