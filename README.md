@@ -51,4 +51,4 @@ Prøv å legge inn et bilde av deg selv.
 
 ## Oppgave 5
 
-
+Lage ny kontakt meg side
