@@ -12,7 +12,9 @@ I dette prosjektet bruker vi React med Typescript og Tailwind for å lage portef
 
 [Tailwind](https://tailwindcss.com/docs/installation)
 
-Vi bruker Azure for å laste opp nettsiden i skyen slik at den blir tilgjengelig for alle. 
+Vi bruker Azure for å laste opp nettsiden i skyen slik at den blir tilgjengelig for alle:
+
+[Azure](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-azure/?ef_id=CjwKCAjw8JKbBhBYEiwAs3sxN3JwZX497kU9p4dnluQOBN20doOaS1cvHOYEHQhcaHRSM80qpzBPRhoCF3gQAvD_BwE%3AG%3As&OCID=AIDcmmf6lw2mzf_SEM_CjwKCAjw8JKbBhBYEiwAs3sxN3JwZX497kU9p4dnluQOBN20doOaS1cvHOYEHQhcaHRSM80qpzBPRhoCF3gQAvD_BwE%3AG%3As&gclid=CjwKCAjw8JKbBhBYEiwAs3sxN3JwZX497kU9p4dnluQOBN20doOaS1cvHOYEHQhcaHRSM80qpzBPRhoCF3gQAvD_BwE)
 
 ## Guider
 
