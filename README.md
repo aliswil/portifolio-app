@@ -16,7 +16,7 @@ Vi bruker Azure for å laste opp nettsiden i skyen slik at den blir tilgjengelig
 
 [Azure](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-azure/?ef_id=CjwKCAjw8JKbBhBYEiwAs3sxN3JwZX497kU9p4dnluQOBN20doOaS1cvHOYEHQhcaHRSM80qpzBPRhoCF3gQAvD_BwE%3AG%3As&OCID=AIDcmmf6lw2mzf_SEM_CjwKCAjw8JKbBhBYEiwAs3sxN3JwZX497kU9p4dnluQOBN20doOaS1cvHOYEHQhcaHRSM80qpzBPRhoCF3gQAvD_BwE%3AG%3As&gclid=CjwKCAjw8JKbBhBYEiwAs3sxN3JwZX497kU9p4dnluQOBN20doOaS1cvHOYEHQhcaHRSM80qpzBPRhoCF3gQAvD_BwE)
 
-## Guider
+## 👩🏽‍💻 Guider
 
 Følgende guider vil bli brukt under kurset med beskrivelse av nødvendige nedlastninger og oppgaver. 
 
