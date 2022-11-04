@@ -2,7 +2,7 @@
 
 Dette er et kurs holdt av Forte digital for Ada NTNU 9. november 2022.
 
-## Teknologier 
+## 💻 Teknologier 
 
 I dette prosjektet bruker vi React med Typescript og Tailwind for å lage porteføljen:
 
