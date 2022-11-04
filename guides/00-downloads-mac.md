@@ -17,11 +17,13 @@ Hvis du ikke har noen foretrukket terminal, så kan du åpne default:
 
 ## Installere Node
 
-# Installere via homebrew
+### Installere via homebrew
+
+Legg til følgende kommando i terminalen
 
 `brew install node`
 
-# Installere via nettside
+### Installere via nettside
 
 [Last ned fra denne lenken](https://nodejs.org/en/download/)
 
