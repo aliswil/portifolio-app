@@ -30,3 +30,7 @@ Følgende guider vil bli brukt under kurset med beskrivelse av nødvendige nedla
 [Hvordan laste siden opp i skyen med Azure](guides/03-DeployToAzure.md)
 
 [Oppgaver](guides/04-Oppgaver.md)
+
+![Alt Text](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif)
+
+
