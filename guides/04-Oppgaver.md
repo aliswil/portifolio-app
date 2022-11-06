@@ -2,7 +2,7 @@
 
 Vi har opprettet et sett med oppgaver med ulike nivå slik at du kan personalisere din egen portefølje slik du vil. Dersom du går inn i /src mappen i prosjektet finner du noen forslag til komponenter du kan ha på siden din. 
 
-Du velger helt selv om du vil ha siden på norsk eller engelsk. 
+Du velger helt selv om du vil ha siden på norsk eller engelsk. Om du sitter fast kan du hente inspirasjon fra /solution mappen i prosjektet
 
 ## Oppgave 1
 
