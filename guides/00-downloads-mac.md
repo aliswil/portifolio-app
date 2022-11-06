@@ -17,7 +17,7 @@ Legg til følgende kommando i terminalen:
 
 `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
-Dersom du ikke har Xcode Command Line Tools installert fra før vil du få beskjed om at det blir installert. Trykk enter dersom meldingen vises.  
+Dersom du ikke har Xcode Command Line Tools installert fra før vil du få beskjed om at det blir installert. Trykk enter dersom meldingen vises. Merk at denne nedlastningen kan ta noen minutter. 
 
 ## Installere Node
 
