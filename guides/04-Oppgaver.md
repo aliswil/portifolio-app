@@ -6,7 +6,9 @@ Du velger helt selv om du vil ha siden på norsk eller engelsk. Om du sitter fas
 
 ## Oppgave 1
 
-Gå inn i /src/components/HomePage.tsx og endre/lag din egen forside.
+Gå inn i /src/components/HomePage.tsx og endre/lag din egen forside. 
+
+Klarer du å få knappen til å få deg ned til neste side? (Sjekk ut hvordan /NavBar.jsx komponenten linker mellom de ulike sidene)
 
 Tips: [Coolors.co](https://coolors.co/) er en genial nettside for å finne kule farger og tilhørende fargekoder som du kan bruke på nettsiden din. 
 
