@@ -20,7 +20,7 @@ Vi bruker Azure for å laste opp nettsiden i skyen slik at den blir tilgjengelig
 
 Følgende guider vil bli brukt under kurset med beskrivelse av nødvendige nedlastninger og oppgaver. 
 
-[Nedlastning av VScode og Node.js + opprette Github konto](guides/00-downloads-mac.md)
+[Nedlastning av VScode og Node.js + opprette Github konto (Mac)](guides/00-downloads-mac.md)
 
 [Nedlastning av git (Mac)](guides/01-GitMac.md)
 
