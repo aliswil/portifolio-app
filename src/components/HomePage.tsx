@@ -1,17 +1,17 @@
 import React from "react";
 import { HiArrowNarrowRight } from "react-icons/hi";
-import Portrait from "../assets/alis.png";
+import Portrait from "../assets/portrett_alis2.png";
 
 export const HomePage = () => {
   return (
     <div
-      data-name="home"
+      id="home"
       className="w-full h-screen bg-[#edede9] grid grid-cols-1 sm:grid-cols-2 gap-1"
     >
       <div className="max-w-[1000 px] mx-auto px-20 flex flex-col justify-center h-full">
         <p className="text-black">Hi, my name is</p>
         <h1 className="text-4xl sm:text-7xl font-bold text-gray-700">
-          Ada Lovelace
+          Alis Wiken Wilson
         </h1>
         <h2 className="text-3xl sm:text-6xl font-bold text-[#848794]">
           I´m a developer.
@@ -28,9 +28,9 @@ export const HomePage = () => {
           </button>
         </div>
       </div>
-      <div className="flex align-bottom h-full">
+      <div className="flex flex-col justify-end align-bottom h-full">
         <img
-          className="absolute bottom-0 object-contain md:object-scale-down h-49 w-96"
+          className="object-contain md:object-scale-down h-49 w-96"
           src={Portrait}
           alt="Portrait picture"
         />
@@ -39,3 +39,5 @@ export const HomePage = () => {
   );
 };
 //mx-auto
+
+//absolute bottom-0
