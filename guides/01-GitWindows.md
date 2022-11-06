@@ -8,6 +8,16 @@ Last ned git for Windows her:
 ## Sjekke at git er installert
 `git --version`
 
+## Forke repository
+
+Når du "Forker" et prosjekt lager du en kopi av repoet til ditt eget prosjekt på din egen github der du kan eksperimentere med endringer uten å påvirke det originale prosjektet. 
+
+```
+   Gå inn på dette prosjektet i github (pass på at du er pålogget).
+   Klikk på Fork-ikonet oppe i hjørnet av denne siden. 
+   Som standard vil det originale prosjekt-navnet bli foreslått, men gjerne endre det til noe eget. 
+   Trykk på "Create fork" knappen.
+``` 
 
 ## Åpne terminalen
 Åpne foretrukket terminal på Windows.
