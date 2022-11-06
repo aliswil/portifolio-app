@@ -27,6 +27,7 @@ Når mappen er laget, så drar du den inn i terminal-vinduet.
 Filstien til mappen vil dukke opp i terminalen. Eks: (/Users/stinesandberg/Jobb/Ada\ NTNU)
 Trykk Enter, og du er nå inni mappen du lagde.
 
+Dersom det ikke fungerer å dra mappen inn i terminal-vinduet kan du navigere deg frem til den manuelt ved å bruke cd. Les dokumentasjonen [her](https://www.macworld.com/article/221277/command-line-navigating-files-folders-mac-terminal.html) dersom du ikke er kjent med det fra før. 
 
 ## Clone repository
 `git clone [https link fra github]`
