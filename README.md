@@ -23,6 +23,7 @@ Følgende guider vil bli brukt under kurset med beskrivelse av nødvendige nedla
 [Nedlastning av VScode og Node.js + opprette Github konto](guides/00-downloads-mac.md)
 
 [Nedlastning av git (Mac)](guides/01-GitMac.md)
+
 [Nedlastning av git (Windows)](guides/01-GitWindows.md)
 
 [Hvordan kjøre prosjektet lokalt](guides/02-RunProject.md)
