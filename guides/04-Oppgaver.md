@@ -33,3 +33,11 @@ Nå skal du opprette din egen komponent der du skal gjøre det mulig for de som 
 ## Videre utvikling
 
 Nå som du har blitt bedre kjent med nettside-templaten er det bare å søke seg rundt på google og youtube for å få mer inspirasjon til kule features du kan implementere til porteføljen din! 😄
+
+### Andre ytviklere sine nettsider til inspirasjon
+
+https://brittanychiang.com/
+https://tamalsen.dev/
+https://olaolu.dev/
+https://robbowen.digital/
+https://bruno-simon.com/
