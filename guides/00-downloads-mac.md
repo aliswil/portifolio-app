@@ -25,6 +25,8 @@ Legg til følgende kommando i terminalen:
 
 `brew install node`
 
+Første gang du laster noe ned via homebrew kan det hende at du må opprette en "path" for homebrew. Du vil få opp hva du skal legge inn i terminalen under "==> Next step". Kopier de tre kommandoene fra terminalen, lim de inn og trykk enter. Prøv å installere node på nytt med samme kommando over. 
+
 ### Installere via nettside
 
 [Last ned fra denne lenken](https://nodejs.org/en/download/)
