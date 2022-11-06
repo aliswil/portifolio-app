@@ -1,12 +1,14 @@
 # Oppgaver
 
-Vi har opprettet et sett med oppgaver med ulike nivå slik at du kan personalisere din egen portefølje slik du vil. 
+Vi har opprettet et sett med oppgaver med ulike nivå slik at du kan personalisere din egen portefølje slik du vil. Dersom du går inn i /src mappen i prosjektet finner du noen forslag til komponenter du kan ha på siden din. 
 
-
+Du velger helt selv om du vil ha siden på norsk eller engelsk. 
 
 ## Oppgave 1
 
 Gå inn i /src/components/HomePage.tsx og endre/lag din egen forside.
+
+Tips: [Coolors.co](https://coolors.co/) er en genial nettside for å finne kule farger og tilhørende fargekoder som du kan bruke på nettsiden din. 
 
 <!-- Ha med beskrivelse av hvordan du endrer på tailwind, spesielt farger og plassering i forhold til vanlig CSS -->
 
@@ -18,10 +20,16 @@ Prøv å legge inn et bilde av deg selv.
 
 ## Oppgave 3 
 
-
+Nå skal du få vise frem egenskaper og erfaringer du har opparbeidet til nå. Tenk gjennom hvilke teknologier du har lært deg og legg dem til i /src/components/Skills.tsx. Du velger selv hvordan du vil gruppere egenskapene dine, gjerne fjern eller legg til flere bokser. 
 
 ## Oppgave 4
 
+Har du hatt noen kule gruppeprosjekt eller hobbyprosjekt du har lyst til å vise frem? I /src/components/Projects.tsx kan du legge til lenker eller screenshots av prosjekter du har jobbet med i eller utenom studietiden. Her kan det være en ide å gjenbruke kode fra forrige oppgave.  
+
 ## Oppgave 5
 
-Lage ny kontakt meg side
+Nå skal du opprette din egen komponent der du skal gjøre det mulig for de som besøker siden å kontakte deg. Her kan du feks legge til mailen din eller linkedIn profilen din.
+
+## Videre utvikling
+
+Nå som du har blitt bedre kjent med nettside-templaten er det bare å søke seg rundt på google og youtube for å få mer inspirasjon til kule features du kan implementere til porteføljen din! 😄
