@@ -20,24 +20,18 @@ Vi bruker Azure for å laste opp nettsiden i skyen slik at den blir tilgjengelig
 
 Følgende guider vil bli brukt under kurset med beskrivelse av nødvendige nedlastninger og oppgaver. 
 
-- 0.1) [Nedlastning av VScode og Node.js + opprette Github konto (Mac)](guides/00-downloads-mac.md)
+- Ting som skal lastes ned før kurset:
+  - [Nedlastning av VScode og Node.js + opprette Github konto (Mac)](guides/00-downloads-mac.md)
+  - [Nedlastning av VScode og Node.js + opprette Github konto (Windows)](guides/00-downloads-windows.md)
 
-- 0.2) [Nedlastning av VScode og Node.js + opprette Github konto (Windows)](guides/00-downloads-windows.md)
+- Ting som gjøres sammen under kurset: 
+  - [Nedlastning av git (Mac)](guides/01-GitMac.md)
+  - [Nedlastning av git (Windows)](guides/01-GitWindows.md)
+  - [Hvordan kjøre prosjektet lokalt](guides/02-RunProject.md)
+  - [Hvordan laste siden opp i skyen med Azure](guides/03-DeployToAzure.md)
+  - [Oppgaver med React, Typescript og Tailwind](guides/04-Oppgaver.md)
 
-
-1.1) [Nedlastning av git (Mac)](guides/01-GitMac.md)
-
-1.2) [Nedlastning av git (Windows)](guides/01-GitWindows.md)
-
-
-2) [Hvordan kjøre prosjektet lokalt](guides/02-RunProject.md)
-
-
-3) [Hvordan laste siden opp i skyen med Azure](guides/03-DeployToAzure.md)
-
-
-4) [Oppgaver](guides/04-Oppgaver.md)
-
+Let´s go! 
 
 ![Alt Text](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif)
 
