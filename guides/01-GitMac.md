@@ -8,15 +8,14 @@ Hvis du ikke har noen foretrukket terminal, så kan du åpne default:
 (cmd + space) -> Terminal
 
 
-## Installere homebrew
+<!--- ## Installere homebrew
 [Homebrew dokumentasjon](https://brew.sh/)
 
 `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
-
+-->
 
 ## Installere git gjennom homebrew
 `brew install git`
-
 
 ## Sjekke at git er installert
 `git --version`
