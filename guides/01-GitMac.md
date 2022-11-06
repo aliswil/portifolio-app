@@ -20,6 +20,16 @@ Hvis du ikke har noen foretrukket terminal, så kan du åpne default:
 ## Sjekke at git er installert
 `git --version`
 
+## Forke repository
+
+Når du "Forker" et prosjekt lager du en kopi av repoet til ditt eget prosjekt på din egen github der du kan eksperimentere med endringer uten å påvirke det originale prosjektet. 
+
+```
+   Gå inn på dette prosjektet i github (pass på at du er pålogget).
+   Klikk på Fork-ikonet oppe i hjørnet av denne siden. 
+   Som standard vil det originale prosjekt-navnet bli foreslått, men gjerne endre det til noe eget. 
+   Trykk på "Create fork" knappen.
+``` 
 
 ## Forbered mappe hvor koden skal ligge
 Lag en mappe i finder der du ønsker at koden skal ligge.
@@ -38,16 +48,6 @@ Eks:
 `git clone https://github.com/stinesandberg/portifolio-app.git`
 
 Du kan nå se i mappen du lagde om kode-filene har kommet inn i mappen.
-
-## Forke repository
-
-Når du "Forker" et prosjekt lager du en kopi av repoet til ditt eget prosjekt på din egen github der du kan eksperimentere med endringer uten å påvirke det originale prosjektet. 
-
-```
-   Klikk på Fork-ikonet oppe i hjørnet av denne siden. 
-   Som standard vil det originale prosjekt-navnet bli foreslått, men gjerne endre det til noe eget. 
-   Trykk på "Create fork" knappen.
-``` 
 
 ## Klargjøre opplasting av lokale endringer til Github
 Når du har gjort endringer i koden på din maskin, så er disse endringene bare lagret lokalt på din maskin. 
