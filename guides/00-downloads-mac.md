@@ -20,7 +20,13 @@ For å laste ned homebrew legger du til følgende kommando i terminalen:
 
 `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
+### Xcode Command Line Tools
+
 Dersom du ikke har Xcode Command Line Tools installert fra før vil du få beskjed om at det blir installert. Trykk enter dersom meldingen vises. Merk at denne nedlastningen kan ta noen minutter. 
+
+### Legge til homebrew til riktig path
+
+Før du begynner å laste ned noe med homebrew må du legge det til i din "path". Du vil få opp hva du skal legge inn i terminalen under "==> Next step" etter du har lastet det ned. Kopier de tre kommandoene fra terminalen, lim de inn og trykk enter. 
 
 ## Installere Node
 
@@ -28,9 +34,7 @@ Dersom du ikke har Xcode Command Line Tools installert fra før vil du få beskj
 
 Legg til følgende kommando i terminalen:
 
-`brew install node`
-
-Første gang du laster noe ned via homebrew kan det hende at du må opprette en "path" for homebrew. Du vil få opp hva du skal legge inn i terminalen under "==> Next step". Kopier de tre kommandoene fra terminalen, lim de inn og trykk enter. Prøv å installere node på nytt med samme kommando over. 
+`brew install node` 
 
 ### Installere via nettside
 
