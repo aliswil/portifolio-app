@@ -16,6 +16,9 @@ Tips: [Coolors.co](https://coolors.co/) er en genial nettside for å finne kule 
 
 <!-- Ha med hvordan man endrer font -->
 
+
+<!-- Skal man kunne gjøre siden responsiv selv? Kan fjerne det og legge det til som en oppgave nederst for de som er flinke -->
+
 ## Oppgave 2
 
 Gå inn i /src/components/AboutMe.tsx og legg til en beskrivende tekst om deg selv. Her er det bare å være kreativ. 
