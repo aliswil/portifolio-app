@@ -29,6 +29,8 @@ Trykk Enter, og du er nå inni mappen du lagde.
 
 Dersom det ikke fungerer å dra mappen inn i terminal-vinduet kan du navigere deg frem til den manuelt ved å bruke cd. Les dokumentasjonen [her](https://www.macworld.com/article/221277/command-line-navigating-files-folders-mac-terminal.html) dersom du ikke er kjent med å navigere gjennom teriminalen fra før. 
 
+Dersom du får opp en popup der terminalen vil ha tilgang til feks "filene i skrivebordet ditt", trykk ok. 
+
 ## Clone repository
 `git clone [https link fra github]`
 
