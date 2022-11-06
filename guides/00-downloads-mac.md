@@ -13,13 +13,15 @@ Hvis du ikke har noen foretrukket terminal, så kan du åpne default:
 ## Installere homebrew
 [Homebrew dokumentasjon](https://brew.sh/)
 
+Legg til følgende kommando i terminalen:
+
 `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
 ## Installere Node
 
 ### Installere via homebrew
 
-Legg til følgende kommando i terminalen
+Legg til følgende kommando i terminalen:
 
 `brew install node`
 
