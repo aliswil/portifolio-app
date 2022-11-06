@@ -44,9 +44,9 @@ Du kan nå se i mappen du lagde om kode-filene har kommet inn i mappen.
 Når du "Forker" et prosjekt lager du en kopi av repoet til ditt eget prosjekt på din egen github der du kan eksperimentere med endringer uten å påvirke det originale prosjektet. 
 
 ```
-   Klikk på Fork-ikonet oppe i hjørnet. 
+   Klikk på Fork-ikonet oppe i hjørnet av denne siden. 
    Som standard vil det originale prosjekt-navnet bli foreslått, men gjerne endre det til noe eget. 
-   Så trykk på "Create fork" knappen.
+   Trykk på "Create fork" knappen.
 ``` 
 
 ## Klargjøre opplasting av lokale endringer til Github
