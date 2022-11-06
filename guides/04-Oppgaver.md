@@ -14,6 +14,8 @@ Tips: [Coolors.co](https://coolors.co/) er en genial nettside for å finne kule 
 
 <!-- Ha med beskrivelse av hvordan du endrer på tailwind, spesielt farger og plassering i forhold til vanlig CSS -->
 
+<!-- Ha med hvordan man endrer font -->
+
 ## Oppgave 2
 
 Gå inn i /src/components/AboutMe.tsx og legg til en beskrivende tekst om deg selv. Her er det bare å være kreativ. 
