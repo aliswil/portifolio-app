@@ -44,7 +44,7 @@ Etter installeringen er ferdig kan du legge inn følgende kommando i terminalen 
 
 `npm version`
 
-Hvis du har installert riktig skal du få opp noe lignende dette: 
+Hvis du har installert riktig skal du få opp noe lignende dette (versjonen kan være nyere): 
 
 ```
   npm: '8.15.0',
