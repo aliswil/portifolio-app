@@ -11,9 +11,12 @@ Hvis du ikke har noen foretrukket terminal, så kan du åpne default:
 (cmd + space) -> Terminal
 
 ## Installere homebrew
+
+Homebrew er et gratis og åpen kildekodebehandlingssystem for programvarepakke som forenkler installasjonen av programvare på Apples operativsystem, macOS, så vel som Linux.
+
 [Homebrew dokumentasjon](https://brew.sh/)
 
-Legg til følgende kommando i terminalen:
+For å laste ned homebrew legger du til følgende kommando i terminalen:
 
 `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
