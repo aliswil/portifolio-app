@@ -27,7 +27,13 @@ Gå inn på [Github.com](https://github.com/) og trykk på "sign up". Følg steg
 
 ## Installer github i terminalen
 
-Følg guiden [her](01-GitMac.md)
+Last ned git for Windows her: 
+[Git for Windows](https://git-scm.com/download/win)
+
+Bare gå for default-valgene om ikke du kjenner Git fra før.
+
+For å sjekke at Git har blitt installert ordentlig kjør følgende kommando i Git Bash eller Terminal: 
+`git --version`
 
 
 

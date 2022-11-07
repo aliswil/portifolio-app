@@ -1,24 +1,5 @@
-# Git for Mac
+# Git
 
-
-## Åpne terminalen
-Åpne foretrukket terminal på Mac.
-Hvis du ikke har noen foretrukket terminal, så kan du åpne default: 
-
-(cmd + space) -> Terminal
-
-
-<!--- ## Installere homebrew
-[Homebrew dokumentasjon](https://brew.sh/)
-
-`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
--->
-
-## Installere git gjennom homebrew
-`brew install git`
-
-## Sjekke at git er installert
-`git --version`
 
 ## Forke repository
 
@@ -31,21 +12,30 @@ Når du "Forker" et prosjekt lager du en kopi av repoet til ditt eget prosjekt p
    Trykk på "Create fork" knappen.
 ``` 
 
+
+## Åpne terminalen
+Åpne foretrukket terminal. F.eks Git Bash, Command Prompt, Terminal eller iTerm.
+
+
 ## Forbered mappe hvor koden skal ligge
 Lag en mappe i finder der du ønsker at koden skal ligge.
 Når mappen er laget, så drar du den inn i terminal-vinduet. 
-Filstien til mappen vil dukke opp i terminalen. Eks: (/Users/stinesandberg/Jobb/Ada\ NTNU)
+Filstien til mappen vil dukke opp i terminalen. Eks: `C:\Documents\NTNU\` eller `/Users/stinesandberg/Jobb/Ada\ NTNU`
+Skriv "cd" foran filstien som har dukket opp. Eks: `cd C:\Documents\NTNU\` eller `cd /Users/stinesandberg/Jobb/Ada\ NTNU`
 Trykk Enter, og du er nå inni mappen du lagde.
 
-Dersom det ikke fungerer å dra mappen inn i terminal-vinduet kan du navigere deg frem til den manuelt ved å bruke cd. Les dokumentasjonen [her](https://www.macworld.com/article/221277/command-line-navigating-files-folders-mac-terminal.html) dersom du ikke er kjent med å navigere gjennom teriminalen fra før. 
+
+Dersom det ikke fungerer å dra mappen inn i terminal-vinduet kan du navigere deg frem til den manuelt ved bruk av `cd` og `ls`. 
+Les dokumentasjonen [her for Mac](https://www.macworld.com/article/221277/command-line-navigating-files-folders-mac-terminal.html) og [her for Windows](https://www.howtogeek.com/659411/how-to-change-directories-in-command-prompt-on-windows-10/). 
 
 Dersom du får opp en popup der terminalen vil ha tilgang til feks "filene i skrivebordet ditt", trykk ok. 
+
 
 ## Clone repository
 `git clone [https link fra github]`
 
 Eks:
-`git clone https://github.com/stinesandberg/portifolio-app.git`
+`git clone https://github.com/zstinesandbergz/portifolio-app.git`
 
 Du kan nå se i mappen du lagde om kode-filene har kommet inn i mappen.
 

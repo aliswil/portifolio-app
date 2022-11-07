@@ -58,8 +58,10 @@ Hvis du har installert riktig skal du få opp noe lignende dette (versjonen kan 
 Gå inn på [Github.com](https://github.com/) og trykk på "sign up". Følg stegene til du har opprettet din egen bruker. 
 
 ## Installer github i terminalen
+`brew install git`
 
-Følg guiden [her](01-GitMac.md)
+Sjekk deretter at git har blitt installert ved å kjøre kommando i valgfri terminal: 
+`git --version`
 
 
 
