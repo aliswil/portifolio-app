@@ -1,4 +1,4 @@
-# Nedlastninger for Mac
+# Nedlastninger for Windows
 
 ## Installere VScode
 
