@@ -5,8 +5,9 @@
 [Last ned fra denne lenken](https://code.visualstudio.com/download)
 
 ## Åpne terminalen
+
 Åpne foretrukket terminal på Mac.
-Hvis du ikke har noen foretrukket terminal, så kan du åpne default: 
+Hvis du ikke har noen foretrukket terminal, så kan du åpne default:
 
 (cmd + space) -> Terminal
 
@@ -22,11 +23,11 @@ For å laste ned homebrew legger du til følgende kommando i terminalen:
 
 ### Xcode Command Line Tools
 
-Dersom du ikke har Xcode Command Line Tools installert fra før vil du få beskjed om at det blir installert. Trykk enter dersom meldingen vises. Merk at denne nedlastningen kan ta noen minutter. 
+Dersom du ikke har Xcode Command Line Tools installert fra før vil du få beskjed om at det blir installert. Trykk enter dersom meldingen vises. Merk at denne nedlastningen kan ta noen minutter.
 
 ### Legge til homebrew til riktig path
 
-Før du begynner å laste ned noe med homebrew må du legge det til i din "path". Du vil få opp hva du skal legge inn i terminalen under "==> Next step" etter du har lastet det ned. Kopier de tre kommandoene fra terminalen, lim de inn og trykk enter. 
+Før du begynner å laste ned noe med homebrew må du legge det til i din "path". Du vil få opp hva du skal legge inn i terminalen under "==> Next step" etter du har lastet det ned. Kopier de tre kommandoene fra terminalen, lim de inn og trykk enter.
 
 ## Installere Node
 
@@ -34,17 +35,17 @@ Før du begynner å laste ned noe med homebrew må du legge det til i din "path"
 
 Legg til følgende kommando i terminalen:
 
-`brew install node` 
+`brew install node`
 
 ### Installere via nettside
 
 [Last ned fra denne lenken](https://nodejs.org/en/download/)
 
-Etter installeringen er ferdig kan du legge inn følgende kommando i terminalen for å se at du har riktig versjon: 
+Etter installeringen er ferdig kan du legge inn følgende kommando i terminalen for å se at du har riktig versjon:
 
 `npm version`
 
-Hvis du har installert riktig skal du få opp noe lignende dette (versjonen kan være nyere): 
+Hvis du har installert riktig skal du få opp noe lignende dette (versjonen kan være nyere):
 
 ```
   npm: '8.15.0',
@@ -55,13 +56,11 @@ Hvis du har installert riktig skal du få opp noe lignende dette (versjonen kan 
 
 ## Opprette bruker i Github
 
-Gå inn på [Github.com](https://github.com/) og trykk på "sign up". Følg stegene til du har opprettet din egen bruker. 
-
-## Installer github i terminalen
+Gå inn på [Github.com](https://github.com/) og trykk på "sign up". Følg stegene til du har opprettet din egen bruker.
 
 ### Installere git gjennom homebrew
 
-For å laste ned git i terminalen legger du inn følgende kommando: 
+For å laste ned git i terminalen legger du inn følgende kommando:
 
 `brew install git`
 
@@ -71,8 +70,6 @@ For å laste ned git i terminalen legger du inn følgende kommando:
 
 ### Sjekke at git er installert
 
+Sjekk deretter at git har blitt installert ved å kjøre kommando i valgfri terminal:
+
 `git --version`
-
-
-
-
