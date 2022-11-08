@@ -6,7 +6,7 @@ import Event from "../assets/event-icon.png";
 
 const Skills = () => {
   return (
-    <div id="skills" className="w-full h-screen bg-[#a9bfbd]">
+    <div id="skills" className="w-full sm:h-screen bg-[#a9bfbd]">
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div>
           <p className="text-4xl font-bold inline border-b-2 border-grey-500">
