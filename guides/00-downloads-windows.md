@@ -27,7 +27,13 @@ Gå inn på [Github.com](https://github.com/) og trykk på "sign up". Følg steg
 
 ## Installer github i terminalen
 
-Følg guiden [her](01-GitMac.md)
+[Last ned via denne lenken](https://git-scm.com/downloads)
+
+### Sjekke at git er installert
+
+Legg inn følgende kommanto i terminalen: 
+
+`git --version`
 
 
 
