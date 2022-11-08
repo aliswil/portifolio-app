@@ -34,11 +34,6 @@ export const Navbar = () => {
             Projects
           </Link>
         </li>
-        <li>
-          <Link to="contact" smooth={true} duration={500}>
-            Contact
-          </Link>
-        </li>
       </ul>
 
       <div onClick={handleClick} className="md:hidden z-10">
@@ -75,11 +70,6 @@ export const Navbar = () => {
             duration={500}
           >
             Projects
-          </Link>
-        </li>
-        <li className="py-6 text-4xl">
-          <Link onClick={handleClick} to="contact" smooth={true} duration={500}>
-            Contact
           </Link>
         </li>
       </ul>
