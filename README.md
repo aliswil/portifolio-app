@@ -25,8 +25,7 @@ Følgende guider vil bli brukt under kurset med beskrivelse av nødvendige nedla
   - [Nedlastning av VScode og Node.js + opprette Github konto (Windows)](guides/00-downloads-windows.md)
 
 - Ting som gjøres sammen under kurset: 
-  - [Nedlastning av git (Mac)](guides/01-GitMac.md)
-  - [Nedlastning av git (Windows)](guides/01-GitWindows.md)
+  - [Bruk av git](guides/01-Git.md)
   - [Hvordan kjøre prosjektet lokalt](guides/02-RunProject.md)
   - [Hvordan laste siden opp i skyen med Azure](guides/03-DeployToAzure.md)
   - [Oppgaver med React, Typescript og Tailwind](guides/04-Oppgaver.md)
