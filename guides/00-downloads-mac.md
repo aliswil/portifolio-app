@@ -1,6 +1,6 @@
 # Nedlastninger for Mac
 
-## Installere VScode
+## Installere Visual Studio Code
 
 [Last ned fra denne lenken](https://code.visualstudio.com/download)
 
