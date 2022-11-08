@@ -4,7 +4,9 @@ Vi har opprettet et sett med oppgaver med ulike nivå slik at du kan personalise
 
 Du velger helt selv om du vil ha siden på norsk eller engelsk. Om du sitter fast kan du hente inspirasjon fra /solution mappen i prosjektet
 
-Tips: Les dokumentasjonen til [Tailwind](https://tailwindcss.com/docs/installation) underveigs når du skal legge til endringer. 
+Tips 1: Les dokumentasjonen til [Tailwind](https://tailwindcss.com/docs/installation) underveis når du skal legge til endringer. 
+
+Tips 2: Last ned [Tailwindcss intellisence](https://tailwindcss.com/docs/editor-setup) i Visual Studio Code som gjør det mer forståelig å jobbe med Tailwind. 
 
 ## Oppgave 1
 
