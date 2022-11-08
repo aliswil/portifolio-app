@@ -59,7 +59,19 @@ Gå inn på [Github.com](https://github.com/) og trykk på "sign up". Følg steg
 
 ## Installer github i terminalen
 
-Følg guiden [her](01-GitMac.md)
+### Installere git gjennom homebrew
+
+For å laste ned git i terminalen legger du inn følgende kommando: 
+
+`brew install git`
+
+### Installere git manuelt
+
+[Last ned via denne lenken](https://git-scm.com/downloads)
+
+### Sjekke at git er installert
+
+`git --version`
 
 
 
