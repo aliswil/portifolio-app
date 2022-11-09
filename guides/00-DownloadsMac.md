@@ -58,6 +58,8 @@ Hvis du har installert riktig skal du få opp noe lignende dette (versjonen kan 
 
 Gå inn på [Github.com](https://github.com/) og trykk på "sign up". Følg stegene til du har opprettet din egen bruker.
 
+## Installer git i terminalen
+
 ### Installere git gjennom homebrew
 
 For å laste ned git i terminalen legger du inn følgende kommando:
