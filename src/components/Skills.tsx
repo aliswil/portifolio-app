@@ -9,7 +9,7 @@ const Skills = () => {
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div>
           <p className="text-4xl font-bold inline border-b-2 border-grey-500">
-            Skills
+            Erfaringer
           </p>
           <p className="py-4">Take a look at my experiences</p>
         </div>

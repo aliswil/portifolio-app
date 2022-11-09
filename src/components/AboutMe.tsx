@@ -1,4 +1,5 @@
 import React from "react";
+import cathrine from "../assets/cathrine.jpg";
 
 const AboutMe = () => {
   return (
@@ -14,10 +15,14 @@ const AboutMe = () => {
         </div>
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
           <div className="sm:text-right text-3xl ">
-            <p>Hi. I´m Ada, nice to meet you. Pleace take a look around.</p>
+            <p>Hi. I´m Cathrine, nice to meet you. Pleace take a look around.</p>
           </div>
           <div>
-            <p>I am passionate about tech and solving problems with code.</p>
+          <img
+            src={cathrine}
+            alt="portraitofme"
+            style={{ width: "550px", height: "500px" }}
+          />
           </div>
         </div>
       </div>
