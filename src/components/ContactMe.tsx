@@ -15,7 +15,10 @@ const ContactMe = () => {
         <div className="flex justify-start max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
           <div className="sm:text-right text-3xl ">
             <p>aliswkn@gmail.com</p>
-            <a href="https://no.linkedin.com/in/alis-wiken-wilson-890912159">
+            <a
+              className="text-blue-400"
+              href="https://no.linkedin.com/in/alis-wiken-wilson-890912159"
+            >
               LinkedIn
             </a>
           </div>

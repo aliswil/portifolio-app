@@ -1,6 +1,7 @@
 import React from "react";
 import { HiArrowNarrowRight } from "react-icons/hi";
 import Portrait from "../assets/portrett_alis2.png";
+import { Link } from "react-scroll";
 
 export const HomePage = () => {
   return (
@@ -20,12 +21,17 @@ export const HomePage = () => {
           Thanks for visiting my page, feel free to check out my portifolio
         </p>
         <div>
-          <button className="text-gray-700 group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#989cab] hover:border-[#989cab] hover:text-white">
+          <Link
+            to="projects"
+            smooth={true}
+            duration={500}
+            className="text-gray-700 group border-2 px-6 py-3 my-2 flex justify-center items-center hover:bg-[#989cab] hover:border-[#989cab] hover:text-white w-1/3"
+          >
             View Work
             <span className="group-hover:rotate-90 duration-300">
               <HiArrowNarrowRight className="ml-3" />
             </span>
-          </button>
+          </Link>
         </div>
       </div>
       <div className="flex flex-col justify-end align-bottom h-full">
