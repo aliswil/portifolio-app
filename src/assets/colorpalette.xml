@@ -1,0 +1,26 @@
+/* CSV */
+5d3a00,684e32,d6cfcb,335b20,567e4e
+
+/* With # */
+#5d3a00, #684e32, #d6cfcb, #335b20, #567e4e
+
+/* Array */
+["5d3a00","684e32","d6cfcb","335b20","567e4e"]
+
+/* Object */
+{"Pullman Brown UPS Brown":"5d3a00","Coffee":"684e32","Timberwolf":"d6cfcb","Lincoln Green":"335b20","Fern Green":"567e4e"}
+
+/* Extended Array */
+[{"name":"Pullman Brown UPS Brown","hex":"5d3a00","rgb":[93,58,0],"cmyk":[0,38,100,64],"hsb":[37,100,36],"hsl":[37,100,18],"lab":[28,11,38]},{"name":"Coffee","hex":"684e32","rgb":[104,78,50],"cmyk":[0,25,52,59],"hsb":[31,52,41],"hsl":[31,35,30],"lab":[35,7,21]},{"name":"Timberwolf","hex":"d6cfcb","rgb":[214,207,203],"cmyk":[0,3,5,16],"hsb":[22,5,84],"hsl":[22,12,82],"lab":[84,2,3]},{"name":"Lincoln Green","hex":"335b20","rgb":[51,91,32],"cmyk":[44,0,65,64],"hsb":[101,65,36],"hsl":[101,48,24],"lab":[35,-26,29]},{"name":"Fern Green","hex":"567e4e","rgb":[86,126,78],"cmyk":[32,0,38,51],"hsb":[110,38,49],"hsl":[110,24,40],"lab":[49,-24,22]}]
+
+/* XML */
+<palette>
+  <color name="Pullman Brown UPS Brown" hex="523200" r="82" g="50" b="0" />
+  <color name="Coffee" hex="684e32" r="104" g="78" b="50" />
+  <color name="Grullo" hex="9f8f7f" r="159" g="143" b="127" />
+  <color name="Pale Silver" hex="bbafa5" r="187" g="175" b="165" />
+  <color name="Timberwolf" hex="d6cfcb" r="214" g="207" b="203" />
+  <color name="Laurel Green" hex="96a78d" r="150" g="167" b="141" />
+  <color name="Fern Green" hex="567e4e" r="86" g="126" b="78" />
+  <color name="Lincoln Green" hex="335b20" r="51" g="91" b="32" />
+</palette>
