@@ -30,6 +30,8 @@ Dersom du får opp en popup der terminalen vil ha tilgang til feks "filene i skr
 
 ## Clone repository
 
+Her er det viktig at du går inn på din egen github profil og cloner prosjektet du akkurat har forket over til din personlige konto. 
+
 `git clone [https link fra github]`
 
 Eks:
