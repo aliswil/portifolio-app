@@ -5,7 +5,7 @@ import Event from "../assets/event-icon.png";
 
 const Skills = () => {
   return (
-    <div id="skills" className="w-full sm:h-screen bg-[#78a7ad]">
+    <div id="skills" className="w-full sm:h-screen bg-[#9966CB]">
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div className="w-full grid grid-cols-1 sm:grid-cols-3 gap-5 text-center py-8">
           <div className="bg-[#edede9] shadow-md shadow-gray-500 hover:scale-110 duration-500 pt-4">

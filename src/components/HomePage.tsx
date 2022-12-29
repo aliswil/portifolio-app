@@ -1,6 +1,7 @@
 import React from "react";
 import { HiArrowNarrowRight } from "react-icons/hi";
 import { Link } from "react-scroll";
+import cover from "../assets/cover.png";
 
 export const HomePage = () => {
   return (
@@ -9,17 +10,24 @@ export const HomePage = () => {
         <h1 className="text-4xl sm:text-7xl font-bold text-gray-700">
           “Skåler du, skåler vi, skåler alle!”
         </h1>
-        <h2 className="text-3xl sm:text-6xl font-bold text-[#e6b8e7]">
+        <h2 className="text-3xl sm:text-6xl font-bold text-[#9966CB] pb-8">
           Nyttårssang 2022
         </h2>
 
         {/*         SETTE inn coverbilde her*/}
+        <div>
+          <img
+            className="w-10"
+            src={cover}
+            style={{ width: "350px", height: "300px" }}
+          />
+        </div>
 
         <p className="text-[#848794] py-4 max-w-[700px]">
           Skrevet av: JJ and The TWINS
         </p>
         <div>
-          <button className="text-gray-700 group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#e6b8e7] hover:border-[#989cab] hover:text-white">
+          <button className="text-gray-700 group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#9966CB] hover:border-[#989cab] hover:text-white">
             <Link to="about" smooth={true} duration={500}>
               Trykk for å lær deg den fete teksten
               <span className="group-hover:rotate-90 duration-300">
