@@ -7,6 +7,33 @@ const Skills = () => {
   return (
     <div id="skills" className="w-full sm:h-screen bg-[#78a7ad]">
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
+        <div className="w-full grid grid-cols-1 sm:grid-cols-3 gap-5 text-center py-8">
+          <div className="bg-[#edede9] shadow-md shadow-gray-500 hover:scale-110 duration-500 pt-4">
+            <img
+              className="w-10 mx-auto"
+              src={Developing}
+              alt="Developing icon"
+            />
+            <p className="my-4 font-semibold">Developing</p>
+            <p className="my-4">BILDE 1</p>
+          </div>
+
+          <div className="bg-[#edede9] shadow-md shadow-gray-500 hover:scale-110 duration-500 pt-4">
+            <img className="w-10 mx-auto" src={Design} alt="Design icon" />
+            <p className="my-4 font-semibold">Design</p>
+            <p className="my-4">BILDE 2</p>
+          </div>
+
+          <div className="bg-[#edede9] shadow-md shadow-gray-500 hover:scale-110 duration-500 pt-4">
+            <img className="w-10 mx-auto" src={Event} alt="Event icon" />
+            <p className="my-4 font-semibold">Event</p>
+            <p className="my-4">BILDE 3</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    /* <div id="skills" className="w-full sm:h-screen bg-[#78a7ad]">
+      <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div>
           <p className="text-4xl font-bold inline border-b-2 border-grey-500">
             Erfaringer
@@ -61,7 +88,7 @@ const Skills = () => {
           </div>
         </div>
       </div>
-    </div>
+    </div> */
   );
 };
 

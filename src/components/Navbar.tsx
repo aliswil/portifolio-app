@@ -7,7 +7,7 @@ export const Navbar = () => {
   const handleClick = () => setNav(!nav);
 
   return (
-    <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#edede9] text-gray-700">
+    {/* <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#edede9] text-gray-700">
 
 
       <ul className="hidden md:flex ">
@@ -70,6 +70,6 @@ export const Navbar = () => {
           </Link>
         </li>
       </ul>
-    </div>
+      </div> */}
   );
 };
