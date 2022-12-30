@@ -21,6 +21,11 @@ export const HomePage = () => {
             src={cover}
             style={{ width: "350px", height: "300px" }}
           />
+          <img
+            className="w-10"
+            src={cover}
+            style={{ width: "350px", height: "300px" }}
+          />
         </div>
 
         <p className="text-[#848794] py-4 max-w-[700px]">
